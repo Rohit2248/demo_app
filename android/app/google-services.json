@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946343090140",
+    "project_id": "face-recognition-16ffd",
+    "storage_bucket": "face-recognition-16ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946343090140:android:92a7a4f0ccc23d42bee119",
+        "android_client_info": {
+          "package_name": "com.verner.face"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946343090140-8j2l4t7cd4h0riso0ofvma8u8gc571cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhIwCNKAZltchNBw1vla2I2cJzwDrot8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946343090140-8j2l4t7cd4h0riso0ofvma8u8gc571cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
