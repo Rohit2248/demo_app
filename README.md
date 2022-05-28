@@ -1,6 +1,6 @@
 # demo_app
 
-This is the complete source code for my demo app for the completion od engage workshop project.
+This is the complete source code for my demo app for the completion of engage workshop project.
 
 INTRO:
 
